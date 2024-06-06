@@ -51,10 +51,6 @@ This project is a comprehensive doctor appointment booking website built using t
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<<<<<<< HEAD
-
-=======
->>>>>>> d2495a15e739ecc1b6fb8798e2d17a2aac9f553a
 MediFlex is a web platform which allows doctors and patients to interact..
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
