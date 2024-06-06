@@ -1,9 +1,13 @@
-## MERN Doctor Appointment Booking Website <h3 align="center">MediFlex</h3>
+## MERN Doctor Appointment Booking Website <h3 align="center">MediFlex</h3> <br><br>
 ![Static Badge](https://img.shields.io/badge/react-blue) ![Static Badge](https://img.shields.io/badge/mongodb-green) ![Static Badge](https://img.shields.io/badge/express-yellow) ![Static Badge](https://img.shields.io/badge/nodejs-green)
 
 </br>
 
 This project is a comprehensive doctor appointment booking website built using the MERN stack (MongoDB, Express.js, React.js, Node.js) along with JWT for authentication and authorization. The application includes multiple features such as role-based access, a review system, a booking system, and a complete backend API.
+
+<!-- TABLE OF CONTENTS -->
+<details>
+
 
 <br/>Features
 <br/>Home Page: Introduction to the website with an overview of its functionality.
@@ -22,31 +26,24 @@ This project is a comprehensive doctor appointment booking website built using t
 
 <ul>
 💠UI designers<br>
-   &nbsp;&nbsp;&nbsp;▪️<a href=https://github.com/dhshanuka>Shanuka Deshan</a><br>
+   &nbsp;&nbsp;&nbsp;▪️<a href=https://github.com/tharindug99>Tharushi Navodhya</a><br>
 💠Front-End developers<br>
-    &nbsp;&nbsp;&nbsp;▪️<a href=https://github.com/Dilini-Shashikala-Gnanarathne>Dilini Gnanarathne</a><br>
-    &nbsp;&nbsp;&nbsp;▪️<a href=https://github.com/YaseeRathnayaka>Yasindu Rathnayake</a><br>
+    &nbsp;&nbsp;&nbsp;▪️<a href=https://github.com/Dilini-Shashikala-Gnanarathne>Tharindu Godage</a><br>
+    &nbsp;&nbsp;&nbsp;▪️<a href=https://github.com/YaseeRathnayaka>Dilshan Silva</a><br>
 💠Back-End developers<br>
-   &nbsp;&nbsp;&nbsp;▪️<a href=https://github.com/Dilini-Shashikala-Gnanarathne>Dilini Gnanarathne</a><br>
-   &nbsp;&nbsp;&nbsp;▪️<a href=https://github.com/chamodyasamarasinghe>Chamodya Samarasingha</a><br>
+   &nbsp;&nbsp;&nbsp;▪️<a href=https://github.com/tharindug99>Tharindu  Godage</a><br>
+   
 </ul>
 
 
   
 
-  <p align="center">
-    Welcome to MediFlex
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-  </p>
+  
 </div>
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
+
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -147,28 +144,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -264,10 +240,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 <p align=center>
-   <img src="https://github.com/Dilini-Shashikala-Gnanarathne/Doctor-Booking-Web/blob/main/frontend/src/assets/images/logo.png"
+   <img src="https://github.com/tharindug99/mediflex/frontend/src/assets/logo.png"
 </p> 
    
 
-## Installation
-
-To get a local copy up and running, just clone the repo
