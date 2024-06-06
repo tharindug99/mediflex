@@ -1,79 +1,55 @@
-## MERN Doctor Appointment Booking Website <h3 align="center">MediFlex</h3> <br><br>
+## MediFlex <br><br>
 ![Static Badge](https://img.shields.io/badge/react-blue) ![Static Badge](https://img.shields.io/badge/mongodb-green) ![Static Badge](https://img.shields.io/badge/express-yellow) ![Static Badge](https://img.shields.io/badge/nodejs-green)
+
+<p align=center>
+   <img src="https://github.com/tharindug99/mediflex/frontend/src/assets/logo.png"
+</p> 
+
 
 </br>
 
 This project is a comprehensive doctor appointment booking website built using the MERN stack (MongoDB, Express.js, React.js, Node.js) along with JWT for authentication and authorization. The application includes multiple features such as role-based access, a review system, a booking system, and a complete backend API.
 
 <!-- TABLE OF CONTENTS -->
-<details>
 
 
-<br/>Features
-<br/>Home Page: Introduction to the website with an overview of its functionality.
-<br/>Services Page: Details about the various medical services offered.
-<br/>Doctor List Page: A list of all available doctors with brief profiles.
-<br/>Doctor Details Page: Detailed information about each doctor, including their specialty, experience, and reviews.
-<br/>Contact Page: A form for users to reach out with inquiries or feedback.
-<br/>Sign In and Sign Up Pages: User authentication pages for logging in and registering new accounts.
-<br/>My Account Page: User-specific page to manage account details, appointments, and other personal information.
-<br/>Role-Based Authentication & Authorization: Different access levels for users, doctors, and administrators.
-<br/>Review System: Users can leave reviews and ratings for doctors.
-<br/>Booking System: Users can book appointments with doctors, view their appointment history, and manage upcoming appointments.
-<br/>Photo Upload System: Allows users and doctors to upload and manage profile pictures and other relevant images.
+<br>
+<h2>Features</h2>
+
+<ul>
+  <li>Home Page: Introduction to the website with an overview of its functionality.</li>
+  <li>Services Page: Details about the various medical services offered.</li>
+  <li>Doctor List Page: A list of all available doctors with brief profiles.</li>
+  <li>Doctor Details Page: Detailed information about each doctor, including their specialty, experience, and reviews.</li>
+  <li>Contact Page: A form for users to reach out with inquiries or feedback.</li>
+  <li>Sign In and Sign Up Pages: User authentication pages for logging in and registering new accounts.</li>
+  <li>My Account Page: User-specific page to manage account details, appointments, and other personal information.</li>
+  <li>Role-Based Authentication & Authorization: Different access levels for users, doctors, and administrators.</li>
+  <li>Review System: Users can leave reviews and ratings for doctors.</li>
+  <li>Booking System: Users can book appointments with doctors, view their appointment history, and manage upcoming appointments.</li>
+  <li>Photo Upload System: Allows users and doctors to upload and manage profile pictures and other relevant images.</li>
+</ul>
 
 ## Authors
 
 <ul>
-💠UI designers<br>
-   &nbsp;&nbsp;&nbsp;▪️<a href=https://github.com/tharindug99>Tharushi Navodhya</a><br>
-💠Front-End developers<br>
-    &nbsp;&nbsp;&nbsp;▪️<a href=https://github.com/Dilini-Shashikala-Gnanarathne>Tharindu Godage</a><br>
-    &nbsp;&nbsp;&nbsp;▪️<a href=https://github.com/YaseeRathnayaka>Dilshan Silva</a><br>
-💠Back-End developers<br>
-   &nbsp;&nbsp;&nbsp;▪️<a href=https://github.com/tharindug99>Tharindu  Godage</a><br>
+💠UI designers<br><br>
+   &nbsp;&nbsp;&nbsp;▪️<a href=https://github.com/TTharushiPathiranage>Tharushi Navodhya</a><br><br>
+💠Front-End developers<br><br>
+    &nbsp;&nbsp;&nbsp;▪️<a href=https://github.com/tharindug99>Tharindu Godage</a><br>
+    &nbsp;&nbsp;&nbsp;▪️<a href=https://github.com/sdilshan>Dilshan Silva</a><br>
+    &nbsp;&nbsp;&nbsp;▪️<a href=https://github.com/TTharushiPathiranage>Tharushi Navodhya</a><br><br>
+💠Back-End developers<br><br>
+   &nbsp;&nbsp;&nbsp;▪️<a href=https://github.com/tharindug99>Tharindu  Godage</a><br><br>
    
 </ul>
 
 
-  
-
-  
-</div>
-
-
-
-
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 MediFlex is a web platform which allows doctors and patients to interact..
 
@@ -86,7 +62,11 @@ MediFlex is a web platform which allows doctors and patients to interact..
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 
-* [![React][React.js]][React-url]
+* ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+* ![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+* ![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+* ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -138,9 +118,6 @@ _Below is an example of how you can instruct your audience on installing and set
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -160,27 +137,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -234,8 +190,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [JQuery-url]: https://jquery.com 
 
 
-<p align=center>
-   <img src="https://github.com/tharindug99/mediflex/frontend/src/assets/logo.png"
-</p> 
+
    
 
